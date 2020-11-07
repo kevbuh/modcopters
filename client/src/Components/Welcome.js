@@ -6,12 +6,12 @@ function HomeScreen() {
     <section className="homescreen">
       <div className="homescreen__info">
         <div className="homescreen__logo">
-          <h1>GRAVITY LEDs</h1>
-          <h2 className="homescreen__logoInfo"> #1 Rated Custom LED Lights</h2>
+          <h1>SPACE COMP</h1>
+          <h2 className="homescreen__logoInfo"> Reimagining aerial vehicles</h2>
         </div>
         <div className="homescreen__button">
           <a href="/shop" className="homescreen__buttonField">
-            SHOP NOW
+            VEIW
           </a>
         </div>
       </div>
