@@ -44,7 +44,7 @@ function NavBar() {
     <nav className="nav">
       <div className="nav__logo">
         <Link to="/">
-          <span className="nav__logoText">Gravity LEDs</span>
+          <span className="nav__logoText">SPACE COMP</span>
           {/* <img src="https://raw.githubusercontent.com/kevinbuhlerr/LED-LIGHTS/master/client/src/ledlogo.png" alt="." /> */}
         </Link>
       </div>
@@ -66,7 +66,7 @@ function NavBar() {
             X
           </button>
           <Link to="/shop" onClick={closeMenu} className="nav__sidebarLink">
-            <span>Shop</span>
+            <span>Info</span>
           </Link>
           <Link to="/faqs" onClick={closeMenu} className="nav__sidebarLink">
             <span>FAQs</span>
@@ -109,7 +109,7 @@ function NavBar() {
 
         <Link to="/shop" className="nav__link">
           <div className="nav__options">
-            <span className="nav__optionLineTwo big">Shop</span>
+            <span className="nav__optionLineTwo big">Info</span>
           </div>
         </Link>
 

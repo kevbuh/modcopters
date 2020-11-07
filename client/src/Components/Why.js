@@ -11,7 +11,7 @@ function Why() {
   return (
     <section className="info">
       <div className="info__title">
-        <span>Why Use Gravity LEDs?</span>
+        <span>What do we do?</span>
       </div>
       <div className="info__divMain">
         <div className="info__divLeft">
@@ -19,7 +19,7 @@ function Why() {
             <li>
               <div className="info__reason">
                 <div className="info__reasonLeft">
-                  <span>Easy to use</span>
+                  <span>Drones</span>
                 </div>
               </div>
             </li>
@@ -27,7 +27,7 @@ function Why() {
             <li>
               <div className="info__reason">
                 <div className="info__reasonLeft">
-                  <span>WiFi enabled</span>
+                  <span>Satelittle</span>
                 </div>
               </div>
             </li>
@@ -35,21 +35,21 @@ function Why() {
             <li>
               <div className="info__reason">
                 <div className="info__reasonLeft">
-                  <span>No controller</span>
+                  <span>Rockets</span>
                 </div>
               </div>
             </li>
             <li>
               <div className="info__reason">
                 <div className="info__reasonLeft">
-                  <span>Waterproof</span>
+                  <span>AI</span>
                 </div>
               </div>
             </li>
             <li>
               <div className="info__reason">
                 <div className="info__reasonLeft">
-                  <span>16 million colors</span>
+                  <span>CAD</span>
                 </div>
               </div>
             </li>
@@ -57,7 +57,7 @@ function Why() {
             <li>
               <div className="info__reason">
                 <div className="info__reasonLeft">
-                  <span>Custom patterns</span>
+                  <span>3D Prints</span>
                 </div>
               </div>
             </li>
