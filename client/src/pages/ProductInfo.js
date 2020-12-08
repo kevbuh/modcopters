@@ -25,8 +25,8 @@ function ProductBig({ id, title, price, image }) {
         <div className="productbig__topImageTitle">
           <span>Introducing: </span>
         </div>
-        <span className="productbig__topImageText">Gravity Origin</span>
-        <span className="productbig__topImageTextTwo">#1 LED Light</span>
+        <span className="productbig__topImageText">CUSTOM</span>
+        <span className="productbig__topImageTextTwo">DRONE</span>
         <span className="productbig__topImageTextTwo">Find out why below:</span>
       </div>
       <Info />
@@ -35,7 +35,7 @@ function ProductBig({ id, title, price, image }) {
           <span className="title"> #1: Easy To Use</span>
           <span className="productbig__reasonsinfo">
             {" "}
-            Our Gravity Origin LED Light uses the most intuitive software out
+            Our CUSTOM DRONE uses the most intuitive software out
             there: WLED. Inside the box contains a custom RGB LED Light strip
             that is ready to go straight out the box. Hook it up through your
             phone, and voila! You can now pick the numerous amounts of patterns
@@ -56,7 +56,7 @@ function ProductBig({ id, title, price, image }) {
           <span className="title"> #3: No Controller </span>
           <span className="productbig__reasonsinfo">
             {" "}
-            As mentioned previously, the Gravity Origin LED light strip is
+            As mentioned previously, the CUSTOM Drone is
             contolled through your phone through the WLED software. No need to
             scramble around your room in order to find an old controller!{" "}
           </span>
@@ -69,19 +69,7 @@ function ProductBig({ id, title, price, image }) {
             spillage on the strip. This completely ruins a person's day. We
             wanted to ensure that this is prevented for our customers. We
             carefully picked out the best LED strips for waterproofing in the
-            Gravity Origin LED light.{" "}
-          </span>
-        </div>
-        <div className="productbig__color">
-          <span className="title"> #5: Tons of patterns </span>
-          <span className="productbig__reasonsinfo">
-            {" "}
-            Not convinced? This LED light strip is one of the most dense LED
-            light per meter out there. This high number of LED lights allows for
-            some truly incredible color brightness and accuracy. In addition, we
-            jam packed the Gravity Origin with over 80 unique patterns. This
-            combination make the the most flashy and good looking Led light
-            strip out there.{" "}
+            CUSTOM DRONE.{" "}
           </span>
         </div>
         <div className="productbig__cart">
@@ -99,10 +87,7 @@ function ProductBig({ id, title, price, image }) {
               <strong>{price}</strong>
             </p>
             <div className="productbig__productInfo">
-              The perfect LED lights for any occasion. Over 100 custom design
-              patterns. Wireless connection to control lights through custom
-              phone software. The best LED strip out there. Easy to install.
-              Best in class for ease of use. Uses the WLED software.
+              Custom drone. Manufactured in house
             </div>
             {/* <div className="product__rating">
           Creating an array of size $rating
@@ -125,23 +110,10 @@ function ProductBig({ id, title, price, image }) {
             <span>Bright</span>
             <span>5 Volts</span>
             <span>Long-Lasting</span>
-            <span>300 LEDs per strip</span>
-            <span>60 lights per meter</span>
             <span>Uses WLED software</span>
-            <span>5 meters, or 16.4 feet per strip</span>
             <span>Low Power Consumption</span>
-            <span>16 Million different colors</span>
-            <span>Over 100 different patterns</span>
-            <span>Excellent luminous efficiency</span>
             <span>Lifespan of over 40,000 hours</span>
             <span>Removable IP65 weatherproof covering</span>
-            <span>
-              RGBW(red, green, blue, white), an upgrade for an addition of white
-              light.
-            </span>
-            <span>
-              Self Adhesive tape on the back makes it easy to install.
-            </span>
           </ul>
         </div>
       </div>

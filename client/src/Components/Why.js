@@ -27,7 +27,7 @@ function Why() {
             <li>
               <div className="info__reason">
                 <div className="info__reasonLeft">
-                  <span>Satelittle</span>
+                  <span>Satellite</span>
                 </div>
               </div>
             </li>

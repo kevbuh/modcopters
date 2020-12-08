@@ -64,7 +64,7 @@ function Footer() {
       <div className="footer__companyArea width">
         <span className="footer__companyName">
           <CopyrightIcon className="footer__copyrightIcon" />
-          {new Date().getFullYear()} | Gravity LEDs
+          {new Date().getFullYear()} | SPACE COMP
         </span>
         {/* <div className="footer__policies">
           <div className="footer__privacy">
@@ -81,7 +81,7 @@ function Footer() {
       </div>
       <div className="width">
         <div className="footer__media">
-          <span className="footer__mediaInfo">Connect With Gravity LEDs: </span>
+          <span className="footer__mediaInfo">Connect With SPACE COMP: </span>
           <div className="footer__mediaIcons">
             {/* <YouTubeIcon className="footer__mediaIcon" /> */}
             <MailIcon className="footer__mediaIcon" />

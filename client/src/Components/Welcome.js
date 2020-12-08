@@ -11,7 +11,7 @@ function HomeScreen() {
         </div>
         <div className="homescreen__button">
           <a href="/shop" className="homescreen__buttonField">
-            VEIW
+            VIEW
           </a>
         </div>
       </div>

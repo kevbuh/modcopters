@@ -11,7 +11,7 @@ function Success() {
       </div>
       <div className="success__title">Success!</div>
       <div className="success__thanks">
-        <span>Thank you for purchasing: Gravity Origin LED Strip</span>
+        <span>Thank you for purchasing: CUSTOM Drone</span>
         <div className="success__email">
           <div className="success__email">
             <span>Please check your email for the receipt.</span>

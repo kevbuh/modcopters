@@ -8,7 +8,7 @@ function Products() {
     <section className="shop">
       <div className="shop__top">
         <div className="shop__title">
-          <span> Gravity LEDs Products</span>
+          <span> SPACE COMP Products</span>
         </div>
         <span className="shop__titleTwo"> Click to see more info!</span>
         <span className="shop__arrow">
@@ -47,10 +47,10 @@ function Products() {
             /> */}
             <Product
               id="#8F26HD7"
-              title="Gravity Origin: Custom"
-              price={59.99}
+              title="Custom Drone"
+              price={30.00}
               // rating={5}
-              image="https://i.pinimg.com/564x/d9/52/01/d95201cbe3f33bfc70ff0166d4e34f8c.jpg"
+              image="https://images.unsplash.com/photo-1527977966376-1c8408f9f108?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1100&q=80"
             />
             {/* <Product
               id="#B93MND9"

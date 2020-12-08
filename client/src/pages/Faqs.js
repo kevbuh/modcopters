@@ -7,125 +7,32 @@ function Faqs() {
       <div className="faqs__title">FAQS</div>
       <div className="faqs__questions">
         <div className="faqs__question">
-          <span className="faqs__questionTitle">How to Sync?</span>
+          <span className="faqs__questionTitle">How do I place an order?</span>
           <span className="faqs__questionInfo">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam,
-            iusto illum nisi cupiditate officiis mollitia dignissimos. Sed
-            ratione autem consequuntur.
+            Visit our "INFO" page and then click "add to cart". 
+            </span>
+            <span className="faqs__questionInfo">
+            Then proceed to the cart in the upper left corner!
           </span>
         </div>
         <div className="faqs__question">
-          <span className="faqs__questionTitle">How do I install?</span>
+          <span className="faqs__questionTitle">Custom Made?</span>
           <span className="faqs__questionInfo">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam,
-            iusto illum nisi cupiditate officiis mollitia dignissimos. Sed
-            ratione autem consequuntur.
-          </span>
-        </div>
-        <div className="faqs__question">
-          <span className="faqs__questionTitle">Removable?</span>
-          <span className="faqs__questionInfo">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam,
-            iusto illum nisi cupiditate officiis mollitia dignissimos. Sed
-            ratione autem consequuntur.
+            Yes, we manufacture everything in house.
           </span>
         </div>
         <div className="faqs__question">
           <span className="faqs__questionTitle">
-            How do I contact Gravity LEDs?
+            How do I contact SPACE COMP?
           </span>
           <span className="faqs__questionInfo">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam,
-            iusto illum nisi cupiditate officiis mollitia dignissimos. Sed
-            ratione autem consequuntur.
+            Visit our contact page.
           </span>
         </div>
-        <div className="faqs__question">
-          <span className="faqs__questionTitle">What's the return policy?</span>
-          <span className="faqs__questionInfo">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam,
-            iusto illum nisi cupiditate officiis mollitia dignissimos. Sed
-            ratione autem consequuntur.
-          </span>
-        </div>
-        <div className="faqs__question">
-          <span className="faqs__questionTitle">
-            Where do I go to checkout?
-          </span>
-          <span className="faqs__questionInfo">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam,
-            iusto illum nisi cupiditate officiis mollitia dignissimos. Sed
-            ratione autem consequuntur.
-          </span>
-        </div>
-        <div className="faqs__question">
-          <span className="faqs__questionTitle">
-            What's the privacy policy?
-          </span>
-          <span className="faqs__questionInfo">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam,
-            iusto illum nisi cupiditate officiis mollitia dignissimos. Sed
-            ratione autem consequuntur.
-          </span>
-        </div>
-        <div className="faqs__question">
-          <span className="faqs__questionTitle">
-            How do I choose the effects?
-          </span>
-          <span className="faqs__questionInfo">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam,
-            iusto illum nisi cupiditate officiis mollitia dignissimos. Sed
-            ratione autem consequuntur.
-          </span>
-        </div>
-        <div className="faqs__question">
-          <span className="faqs__questionTitle">
-            What is the waterproof rating?
-          </span>
-          <span className="faqs__questionInfo">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam,
-            iusto illum nisi cupiditate officiis mollitia dignissimos. Sed
-            ratione autem consequuntur.
-          </span>
-        </div>
-        <div className="faqs__question">
-          <span className="faqs__questionTitle">
-            How do I install the newest software?
-          </span>
-          <span className="faqs__questionInfo">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam,
-            iusto illum nisi cupiditate officiis mollitia dignissimos. Sed
-            ratione autem consequuntur.
-          </span>
-        </div>
-        <div className="faqs__question">
-          <span className="faqs__questionTitle">
-            How do I set the lights to a certain effect?
-          </span>
-          <span className="faqs__questionInfo">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam,
-            iusto illum nisi cupiditate officiis mollitia dignissimos. Sed
-            ratione autem consequuntur.
-          </span>
-        </div>
-        <div className="faqs__question">
-          <span className="faqs__questionTitle">
-            How do I request new products/ designs?
-          </span>
-          <span className="faqs__questionInfo">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam,
-            iusto illum nisi cupiditate officiis mollitia dignissimos. Sed
-            ratione autem consequuntur.
-          </span>
-        </div>
-        <div className="faqs__question">
-          <span className="faqs__questionTitle">I have a problem! Help!</span>
-          <span className="faqs__questionInfo">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam,
-            iusto illum nisi cupiditate officiis mollitia dignissimos. Sed
-            ratione autem consequuntur.
-          </span>
-        </div>
+        
+        
+        
+        
       </div>
     </section>
   );
